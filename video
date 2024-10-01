@@ -1,0 +1,1 @@
+rm video.mp4;mandelbrot config.yml | ffmpeg -framerate 30 -i - -c:v libx264 -pix_fmt yuv420p -vf scale=1920:1080 video.mp4
