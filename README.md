@@ -4,7 +4,7 @@ Using this project you can make images and videos of the Mandlebrot set.
 
 ## Zoom video
 
-[This](https://www.youtube.com/watch?v=Z5R7WNN8Hbs) video was made using this project.
+[This video](https://www.youtube.com/watch?v=Z5R7WNN8Hbs) was made using this project.
 
 ## Building the project
 
